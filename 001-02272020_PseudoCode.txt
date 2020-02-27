@@ -1,0 +1,1 @@
+Create an App with a navbar and a flexbox with 3 boxes to a row where each box has a picture and a first name, last name and a phone number. If there is only one entry, then it will take up the whole width of the screen. If there are two, then they will split the screen. The max in a row should be three boxes. There should be a drop shadow on each box.
